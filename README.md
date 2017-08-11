@@ -69,4 +69,67 @@
 
  ---
 
+## 第三部分
+
+* [DataStructure(数据结构)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part3/DataStructure)
+    * [数组](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/DataStructure/数组.md)
+    * 链表
+    * [栈和队列](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/DataStructure/栈和队列.md)
+    * 字符串
+    * 树
+    * 图
+* [Algorithm(算法)]()
+    * [排序](https://github.com/anAngryAnt/LearningNotes/tree/master/Part3/Algorithm/Sort)
+        * [选择排序](https://github.com/anAngryAnt/LearningNotes/tree/master/Part3/Algorithm/Sort/选择排序.md)
+        * [冒泡排序](https://github.com/anAngryAnt/LearningNotes/tree/master/Part3/Algorithm/Sort/冒泡排序.md)
+        * [快速排序](https://github.com/anAngryAnt/LearningNotes/tree/master/Part3/Algorithm/Sort/快速排序.md)
+        * [归并排序](https://github.com/anAngryAnt/LearningNotes/tree/master/Part3/Algorithm/Sort/归并排序.md)
+        * [面试中的十大排序算法总结](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/Sort/%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%2010%20%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.md)
+    * 查找
+        * [顺序查找](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/Lookup/顺序查找.md)
+        * [折半查找](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/Lookup/折半查找.md)
+    * 《剑指Offer》
+        * [面试题2:实现Singleton模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/剑指Offer/1.七种方式实现singleton模式.md)
+        * [面试题6：重建二叉树](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/剑指Offer/面试题6：重建二叉树.md)
+        * [面试题11：数值的整数次方](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/剑指Offer/面试题11：数值的整数次方.md)
+        * [面试题44：扑克牌的顺子](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/剑指Offer/面试题44：扑克牌的顺子.md)
+        * [面试题45：圆圈中最后剩下的数字](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/剑指Offer/面试题45：圆圈中最后剩下的数字.md)
+    * 《程序员面试金典》
+    * 《LeetCode》
+        * [two-sum](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/LeetCode/two-sum.md)
+    * 《程序员代码面试指南(左程云)》
+        * [1.设计一个有getMin功能的栈](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/程序员代码面试指南(左程云)/1.设计一个有getMin功能的栈.md)
+        * [2.由两个栈组成的队列](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/程序员代码面试指南(左程云)/2.由两个栈组成的队列.md)
+        * [3.如何仅用递归函数和栈操作逆序一个栈](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/Algorithm/程序员代码面试指南(左程云)/3.如何仅用递归函数和栈操作逆序一个栈.md)
+
+ ---
+ ## 第四部分
+
+* [Network(网络)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part4/Network)
+    * [TCP/UDP](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/Network/TCP与UDP.md)
+    * [HTTP](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/Network/Http协议.md)
+    * [Socket](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/Network/Socket.md)
+    * [计算机网络基础汇总](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/Network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E6%B1%87%E6%80%BB.md)
+* [OperatingSystem(操作系统)](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/OperatingSystem/操作系统.md)
+    * [Linux系统的IPC](https://github.com/GeniusVJR/LearningNotes/blob/master/Part4/OperatingSystem/Linux系统的IPC.md)
+
+
+ ---
+ ## 第五部分
+
+* [ReadingNotes(读书笔记)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/ReadingNotes)
+   * [《APP研发录》第1章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《APP研发录》第1章读书笔记.md)
+   * [《APP研发录》第2章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《APP研发录》第2章读书笔记.md)
+   * [《Android开发艺术探索》第一章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第一章笔记.md)
+   * [《Android开发艺术探索》第二章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第二章笔记.md)
+   * [《Android开发艺术探索》第三章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第三章笔记.md)
+   * [《Android开发艺术探索》第四章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第四章笔记.md)
+   * [《Android开发艺术探索》第八章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第八章笔记.md)
+   * [《Android开发艺术探索》第十五章笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Android开发艺术探索》第十五章笔记.md)
+   * [《深入理解Java虚拟机》第12章](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《深入理解java虚拟机》第12章.md)
+   * [《Java编程思想》第一章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第一章读书笔记.md)
+   * [《Java编程思想》第二章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第二章读书笔记.md)
+
+* [Project(项目)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/Project)
+   * [项目难点](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/Project/项目.md)
 
