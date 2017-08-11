@@ -2,7 +2,7 @@
 
   ---
 
-## 第一部分：设计模式 && UML
+## 第一部分：设计模式 & UML
 
 * [DesignPattern(设计模式)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part1/DesignPattern)
 
