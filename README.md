@@ -2,40 +2,37 @@
 
   ---
 
-## 第一部分：
+## 第一部分：设计模式
 
 * [DesignPattern(设计模式)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part1/DesignPattern)
 
-     * [面向对象六大原则](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/常见的面向对象设计原则.md)
-     * [单例模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/单例模式.md)
-     * [Builder模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/Builder模式.md)
-     * [原型模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/原型模式.md)
-     * [简单工厂](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/简单工厂.md)
+     * [单例模式](https://github.com/Saintchi/blog/issues/9)
+     * 简单工厂
      * 工厂方法模式
      * 抽象工厂模式
-     * [策略模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/策略模式.md)
-     * 状态模式
-     * [责任链模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/责任链模式.md)
-     * 解释器模式
+     * 策略模式
+     * 责任链模式   
      * 命令模式
-     * [观察者模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/观察者模式.md)
-     * 备忘录模式
-     * 迭代器模式
      * 模板方法模式
-     * 访问者模式
-     * 中介者模式
-     * [代理模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/代理模式.md)
+     * 适配器模式
+     * 代理模式
+     * 外观模式
+     >>
      * 组合模式
-     * [适配器模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/适配器模式.md)
      * 装饰模式
      * 享元模式
-     * [外观模式](https://github.com/GeniusVJR/LearningNotes/blob/master/Part1/DesignPattern/外观模式.md)
      * 桥接模式
- 
- 
+     * Builder模式
+     * 状态模式
+     * 解释器模式
+     * 观察者模式
+     * 备忘录模式
+     * 迭代器模式
+     * 访问者模式
+     * 中介者模式
  ---
 
-## 第二部分
+## 第二部分：JAVA
 * [JavaSE(Java基础)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part2/JavaSE)
   * [Java基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/Java基础知识.md)
   * [Java中的内存泄漏](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaSE/Java中的内存泄漏.md)
@@ -56,7 +53,7 @@
 * [JavaConcurrent(Java并发)](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/Java并发.md)
   * [Java并发基础知识](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/Java并发基础知识.md)
   * [生产者和消费者问题](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/生产者和消费者问题.md)
-    * [Thread和Runnable实现多线程的区别](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/Thread和Runnable实现多线程的区别.md) 
+  * [Thread和Runnable实现多线程的区别](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/Thread和Runnable实现多线程的区别.md) 
   * [线程中断](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/线程中断.md)
   * [守护线程与阻塞线程](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/守护线程与阻塞线程.md)
   * [synchronized](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/Synchronized.md)
@@ -67,9 +64,19 @@
   * [使用wait/notify/notifyAll实现线程间通信](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/使用wait:notify:notifyall实现线程间通信.md)
   * [NIO](https://github.com/GeniusVJR/LearningNotes/blob/master/Part2/JavaConcurrent/NIO.md)
 
+
  ---
 
-## 第三部分
+## 第三部分：Spring框架
+
+
+ ---
+
+## 第四部分：中间件
+
+ ---
+
+## 第五部分
 
 * [DataStructure(数据结构)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part3/DataStructure)
     * [数组](https://github.com/GeniusVJR/LearningNotes/blob/master/Part3/DataStructure/数组.md)
@@ -115,7 +122,7 @@
 
 
  ---
- ## 第五部分
+ ## 第六部分
 
 * [ReadingNotes(读书笔记)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/ReadingNotes)
    * [《APP研发录》第1章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《APP研发录》第1章读书笔记.md)
@@ -131,5 +138,5 @@
    * [《Java编程思想》第二章读书笔记](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/ReadingNotes/《Java编程思想》第二章读书笔记.md)
 
 * [Project(项目)](https://github.com/GeniusVJR/LearningNotes/tree/master/Part5/Project)
-   * [项目难点](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/Project/项目.md)
+   * [项目总结](https://github.com/GeniusVJR/LearningNotes/blob/master/Part5/Project/项目.md)
 
