@@ -1,0 +1,17 @@
+story: 设计模式
+dts: none
+author：Hyunji
+description：设计模式
+
+
+story: springmvc + mybatis
+dts: none
+author：Hyunji
+description：pom修改以及本地maven settings备份 
+
+
+story: LearningNotes
+dts: none
+author：Hyunji
+description：LearningNotes
+

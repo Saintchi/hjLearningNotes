@@ -1,0 +1,42 @@
+每一步，记录手稿，放issues备份
+
+重复劳动，浪费生命，阻碍财富。
+
+
+
+
+--------- ############# ---------
+--  2017.08.12~13
+--------- #############  ---------
+
+1、工程目录搭建
+JavaConcurrent(Java并发)
+
+2、maven仓库
+SpringMvc+Spring+Mybatis+Maven整合视频教程：
+	http://pan.baidu.com
+maven仓库：
+	http://maven.aliyun.com/nexus
+备份 settings.xml：
+	https://github.com/Saintchi/javaUtility/blob/master/maven_settings_bak.xml
+
+ 
+3、egit安装
+	本地word文档，解决方案有截图。
+
+4、.gitignore和git bash
+git bash安装后 右键看不到，【注册表被清除】。
+
+	Git-1.7.9-preview20120201.exe 安装路径：D:\Program Files (x86)\Git\bin\ssh.exe    ------------- 【只使用这个】
+
+	Git-2.14.1-64-bit.exe安装路径： D:\Program Files\Git，push出错：git did not exit cleanly (exit code 1)  ------------- 【仅仅创建了一个vim .gitignore文件，不再使用】
+	
+	
+3、反编译工具 + IDE反编译
+
+4、work代码总结、收藏
+
+5、百度网盘（清理 + 整理）
+
+6、Xmind 简书架构之路 整理，记录issues备份---- 全视图
+
